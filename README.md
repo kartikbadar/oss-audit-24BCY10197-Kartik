@@ -31,8 +31,7 @@ This project is an audit of VLC Media Player focusing on:
 - project_script3.sh
 - project_script4.sh
 - project_script5.sh
-- screenshots/
-- vityarthiOSS_24MEI10024-DHYEY.pdf
+- vityarthiOSS_24BCY10197-KARTIK.pdf
 
 ---
 
