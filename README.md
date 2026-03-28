@@ -36,7 +36,7 @@ This project is an audit of VLC Media Player focusing on:
 
 ---
 
-## Shell Scripts — Output
+## Shell Scripts
 
 ###  Script 1 — System Information
 ---
